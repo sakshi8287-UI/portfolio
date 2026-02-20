@@ -43,7 +43,7 @@ const Navbar = ({ darkMode, toggleDarkMode }) => {
       >
         {/* Logo */}
         <a
-          href="#home"
+          href="#"
           className={`text-xl font-bold ${colors.textPrimary} whitespace-nowrap`}
         >
           Portfolio<span className="text-orange-500">.</span>

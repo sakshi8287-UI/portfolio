@@ -43,7 +43,7 @@ const Navbar = ({ darkMode, toggleDarkMode }) => {
       >
         {/* Logo */}
         <a
-          href="https://sakshi8287-ui.github.io/portfolio/#home"
+          href="#home"
           className={`text-xl font-bold ${colors.textPrimary} whitespace-nowrap`}
         >
           Portfolio<span className="text-orange-500">.</span>
